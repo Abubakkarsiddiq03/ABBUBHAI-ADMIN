@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841974012731",
+    "firebase_url": "https://abbuadmmin-default-rtdb.firebaseio.com",
+    "project_id": "abbuadmmin",
+    "storage_bucket": "abbuadmmin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841974012731:android:22e23c0e821a9cf786f51e",
+        "android_client_info": {
+          "package_name": "Admin.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841974012731-rhq0l8h74b20a5fou4e1f7v4aadamtvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_k2_xUJYDph7st0XbRArbPaHfiaTrgAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841974012731-rhq0l8h74b20a5fou4e1f7v4aadamtvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
